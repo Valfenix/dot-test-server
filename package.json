@@ -11,8 +11,6 @@
     "watch-ts": "tsc -w",
     "dev": "set NODE_ENV=dev TS_NODE_FILES=true TS_NODE_TRANSPILE_ONLY=true && nodemon source/server.ts",
     "deploy": "git add . && git commit -m Heroku && git push heroku master",
-    "copy-files": "cp -r ./source/views/ ./build/",
-    "copy-greeting": "cp ./source/index.html ./build/",
     "clean": "rm -rf ./build"
   },
   "author": "Valentine Offiah",
