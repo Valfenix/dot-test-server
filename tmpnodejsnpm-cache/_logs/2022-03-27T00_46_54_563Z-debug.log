@@ -1,0 +1,1169 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'i',
+1 verbose cli   'socket.io'
+1 verbose cli ]
+2 info using npm@6.14.15
+3 info using node@v14.18.1
+4 verbose npm-session fc45f8991e3fe242
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 http fetch GET 200 https://registry.npmjs.org/socket.io 1054ms
+8 http fetch GET 200 https://registry.npmjs.org/socket.io/-/socket.io-4.4.1.tgz 1671ms
+9 silly pacote tag manifest for socket.io@latest fetched in 2823ms
+10 timing stage:loadCurrentTree Completed in 6529ms
+11 silly install loadIdealTree
+12 silly install cloneCurrentTreeToIdealTree
+13 timing stage:loadIdealTree:cloneCurrentTree Completed in 14ms
+14 silly install loadShrinkwrap
+15 timing stage:loadIdealTree:loadShrinkwrap Completed in 1002ms
+16 silly install loadAllDepsIntoIdealTree
+17 silly resolveWithNewModule socket.io@4.4.1 checking installable status
+18 http fetch GET 200 https://registry.npmjs.org/base64id 119ms
+19 http fetch GET 200 https://registry.npmjs.org/base64id/-/base64id-2.0.0.tgz 206ms
+20 silly pacote range manifest for base64id@~2.0.0 fetched in 390ms
+21 silly resolveWithNewModule base64id@2.0.0 checking installable status
+22 http fetch GET 200 https://registry.npmjs.org/socket.io-adapter 603ms
+23 http fetch GET 200 https://registry.npmjs.org/engine.io 611ms
+24 http fetch GET 200 https://registry.npmjs.org/socket.io-parser 640ms
+25 http fetch GET 304 https://registry.npmjs.org/debug 770ms (from cache)
+26 silly pacote range manifest for debug@~4.3.2 fetched in 778ms
+27 silly resolveWithNewModule debug@4.3.4 checking installable status
+28 http fetch GET 200 https://registry.npmjs.org/socket.io-adapter/-/socket.io-adapter-2.3.3.tgz 247ms
+29 silly pacote range manifest for socket.io-adapter@~2.3.3 fetched in 899ms
+30 silly resolveWithNewModule socket.io-adapter@2.3.3 checking installable status
+31 http fetch GET 200 https://registry.npmjs.org/socket.io-parser/-/socket.io-parser-4.0.4.tgz 368ms
+32 http fetch GET 200 https://registry.npmjs.org/engine.io/-/engine.io-6.1.3.tgz 400ms
+33 silly pacote range manifest for socket.io-parser@~4.0.4 fetched in 1059ms
+34 silly resolveWithNewModule socket.io-parser@4.0.4 checking installable status
+35 silly pacote range manifest for engine.io@~6.1.0 fetched in 1065ms
+36 silly resolveWithNewModule engine.io@6.1.3 checking installable status
+37 http fetch GET 304 https://registry.npmjs.org/ms 303ms (from cache)
+38 silly pacote version manifest for ms@2.1.2 fetched in 310ms
+39 silly resolveWithNewModule ms@2.1.2 checking installable status
+40 silly pacote range manifest for debug@~4.3.1 fetched in 32ms
+41 silly resolveWithNewModule debug@4.3.4 checking installable status
+42 http fetch GET 200 https://registry.npmjs.org/@types%2fcookie 178ms
+43 http fetch GET 200 https://registry.npmjs.org/engine.io-parser 362ms
+44 http fetch GET 200 https://registry.npmjs.org/@types/cookie/-/cookie-0.4.1.tgz 440ms
+45 http fetch GET 200 https://registry.npmjs.org/engine.io-parser/-/engine.io-parser-5.0.3.tgz 250ms
+46 silly pacote range manifest for @types/cookie@^0.4.1 fetched in 659ms
+47 silly resolveWithNewModule @types/cookie@0.4.1 checking installable status
+48 silly pacote range manifest for engine.io-parser@~5.0.3 fetched in 664ms
+49 silly resolveWithNewModule engine.io-parser@5.0.3 checking installable status
+50 http fetch GET 200 https://registry.npmjs.org/ws 803ms
+51 http fetch GET 200 https://registry.npmjs.org/ws/-/ws-8.2.3.tgz 129ms
+52 silly pacote range manifest for ws@~8.2.3 fetched in 983ms
+53 silly resolveWithNewModule ws@8.2.3 checking installable status
+54 silly pacote version manifest for ms@2.1.2 fetched in 5ms
+55 silly resolveWithNewModule ms@2.1.2 checking installable status
+56 http fetch GET 200 https://registry.npmjs.org/@socket.io%2fbase64-arraybuffer 232ms
+57 http fetch GET 200 https://registry.npmjs.org/@socket.io/base64-arraybuffer/-/base64-arraybuffer-1.0.2.tgz 208ms
+58 silly pacote range manifest for @socket.io/base64-arraybuffer@~1.0.2 fetched in 482ms
+59 silly resolveWithNewModule @socket.io/base64-arraybuffer@1.0.2 checking installable status
+60 silly pacote range manifest for debug@~4.3.1 fetched in 33ms
+61 silly resolveWithNewModule debug@4.3.4 checking installable status
+62 http fetch GET 200 https://registry.npmjs.org/component-emitter 127ms
+63 http fetch GET 200 https://registry.npmjs.org/@types%2fcomponent-emitter 239ms
+64 http fetch GET 200 https://registry.npmjs.org/component-emitter/-/component-emitter-1.3.0.tgz 165ms
+65 silly pacote range manifest for component-emitter@~1.3.0 fetched in 309ms
+66 silly resolveWithNewModule component-emitter@1.3.0 checking installable status
+67 http fetch GET 200 https://registry.npmjs.org/@types/component-emitter/-/component-emitter-1.2.11.tgz 115ms
+68 silly pacote range manifest for @types/component-emitter@^1.2.10 fetched in 380ms
+69 silly resolveWithNewModule @types/component-emitter@1.2.11 checking installable status
+70 silly pacote version manifest for ms@2.1.2 fetched in 6ms
+71 silly resolveWithNewModule ms@2.1.2 checking installable status
+72 timing stage:loadIdealTree:loadAllDepsIntoIdealTree Completed in 4367ms
+73 timing stage:loadIdealTree Completed in 5655ms
+74 silly currentTree dot-test@1.0.0
+74 silly currentTree +-- @colors/colors@1.5.0
+74 silly currentTree +-- @dabh/diagnostics@2.0.3
+74 silly currentTree +-- @sindresorhus/is@0.14.0
+74 silly currentTree +-- @szmarczak/http-timer@1.1.2
+74 silly currentTree +-- @types/bcryptjs@2.4.2
+74 silly currentTree +-- @types/body-parser@1.19.2
+74 silly currentTree +-- @types/connect@3.4.35
+74 silly currentTree +-- @types/cors@2.8.12
+74 silly currentTree +-- @types/dotenv@8.2.0
+74 silly currentTree +-- @types/express-serve-static-core@4.17.28
+74 silly currentTree +-- @types/express@4.17.13
+74 silly currentTree +-- @types/mime@1.3.2
+74 silly currentTree +-- @types/node@17.0.23
+74 silly currentTree +-- @types/qs@6.9.7
+74 silly currentTree +-- @types/range-parser@1.2.4
+74 silly currentTree +-- @types/serve-static@1.13.10
+74 silly currentTree +-- @types/webidl-conversions@6.1.1
+74 silly currentTree +-- @types/whatwg-url@8.2.1
+74 silly currentTree +-- abbrev@1.1.1
+74 silly currentTree +-- accepts@1.3.8
+74 silly currentTree +-- ansi-align@3.0.1
+74 silly currentTree +-- ansi-regex@5.0.1
+74 silly currentTree +-- ansi-styles@4.3.0
+74 silly currentTree | +-- color-convert@2.0.1
+74 silly currentTree | `-- color-name@1.1.4
+74 silly currentTree +-- anymatch@3.1.2
+74 silly currentTree +-- array-flatten@1.1.1
+74 silly currentTree +-- async@3.2.3
+74 silly currentTree +-- balanced-match@1.0.2
+74 silly currentTree +-- base64-js@1.5.1
+74 silly currentTree +-- bcryptjs@2.4.3
+74 silly currentTree +-- binary-extensions@2.2.0
+74 silly currentTree +-- body-parser@1.19.2
+74 silly currentTree +-- boxen@5.1.2
+74 silly currentTree +-- brace-expansion@1.1.11
+74 silly currentTree +-- braces@3.0.2
+74 silly currentTree +-- bson@4.6.2
+74 silly currentTree +-- buffer@5.7.1
+74 silly currentTree +-- bytes@3.1.2
+74 silly currentTree +-- cacheable-request@6.1.0
+74 silly currentTree | +-- get-stream@5.2.0
+74 silly currentTree | `-- lowercase-keys@2.0.0
+74 silly currentTree +-- camelcase@6.3.0
+74 silly currentTree +-- chalk@4.1.2
+74 silly currentTree | +-- has-flag@4.0.0
+74 silly currentTree | `-- supports-color@7.2.0
+74 silly currentTree +-- chokidar@3.5.3
+74 silly currentTree +-- ci-info@2.0.0
+74 silly currentTree +-- cli-boxes@2.2.1
+74 silly currentTree +-- clone-response@1.0.2
+74 silly currentTree +-- color-convert@1.9.3
+74 silly currentTree +-- color-name@1.1.3
+74 silly currentTree +-- color-string@1.9.0
+74 silly currentTree +-- color@3.2.1
+74 silly currentTree +-- colorspace@1.1.4
+74 silly currentTree +-- concat-map@0.0.1
+74 silly currentTree +-- configstore@5.0.1
+74 silly currentTree +-- content-disposition@0.5.4
+74 silly currentTree +-- content-type@1.0.4
+74 silly currentTree +-- cookie-signature@1.0.6
+74 silly currentTree +-- cookie@0.4.2
+74 silly currentTree +-- cors@2.8.5
+74 silly currentTree +-- crypto-random-string@2.0.0
+74 silly currentTree +-- debug@2.6.9
+74 silly currentTree +-- decompress-response@3.3.0
+74 silly currentTree +-- deep-extend@0.6.0
+74 silly currentTree +-- defer-to-connect@1.1.3
+74 silly currentTree +-- denque@2.0.1
+74 silly currentTree +-- depd@1.1.2
+74 silly currentTree +-- destroy@1.0.4
+74 silly currentTree +-- dot-prop@5.3.0
+74 silly currentTree +-- dotenv@16.0.0
+74 silly currentTree +-- duplexer3@0.1.4
+74 silly currentTree +-- ee-first@1.1.1
+74 silly currentTree +-- emoji-regex@8.0.0
+74 silly currentTree +-- enabled@2.0.0
+74 silly currentTree +-- encodeurl@1.0.2
+74 silly currentTree +-- end-of-stream@1.4.4
+74 silly currentTree +-- escape-goat@2.1.1
+74 silly currentTree +-- escape-html@1.0.3
+74 silly currentTree +-- etag@1.8.1
+74 silly currentTree +-- express@4.17.3
+74 silly currentTree +-- fecha@4.2.1
+74 silly currentTree +-- fill-range@7.0.1
+74 silly currentTree +-- finalhandler@1.1.2
+74 silly currentTree +-- fn.name@1.1.0
+74 silly currentTree +-- forwarded@0.2.0
+74 silly currentTree +-- fresh@0.5.2
+74 silly currentTree +-- get-stream@4.1.0
+74 silly currentTree +-- glob-parent@5.1.2
+74 silly currentTree +-- global-dirs@3.0.0
+74 silly currentTree +-- got@9.6.0
+74 silly currentTree +-- graceful-fs@4.2.9
+74 silly currentTree +-- has-flag@3.0.0
+74 silly currentTree +-- has-yarn@2.1.0
+74 silly currentTree +-- http-cache-semantics@4.1.0
+74 silly currentTree +-- http-errors@1.8.1
+74 silly currentTree +-- iconv-lite@0.4.24
+74 silly currentTree +-- ieee754@1.2.1
+74 silly currentTree +-- ignore-by-default@1.0.1
+74 silly currentTree +-- import-lazy@2.1.0
+74 silly currentTree +-- imurmurhash@0.1.4
+74 silly currentTree +-- inherits@2.0.4
+74 silly currentTree +-- ini@2.0.0
+74 silly currentTree +-- ip@1.1.5
+74 silly currentTree +-- ipaddr.js@1.9.1
+74 silly currentTree +-- is-arrayish@0.3.2
+74 silly currentTree +-- is-binary-path@2.1.0
+74 silly currentTree +-- is-ci@2.0.0
+74 silly currentTree +-- is-extglob@2.1.1
+74 silly currentTree +-- is-fullwidth-code-point@3.0.0
+74 silly currentTree +-- is-glob@4.0.3
+74 silly currentTree +-- is-installed-globally@0.4.0
+74 silly currentTree +-- is-npm@5.0.0
+74 silly currentTree +-- is-number@7.0.0
+74 silly currentTree +-- is-obj@2.0.0
+74 silly currentTree +-- is-path-inside@3.0.3
+74 silly currentTree +-- is-stream@2.0.1
+74 silly currentTree +-- is-typedarray@1.0.0
+74 silly currentTree +-- is-yarn-global@0.3.0
+74 silly currentTree +-- json-buffer@3.0.0
+74 silly currentTree +-- kareem@2.3.4
+74 silly currentTree +-- keyv@3.1.0
+74 silly currentTree +-- kuler@2.0.0
+74 silly currentTree +-- latest-version@5.1.0
+74 silly currentTree +-- logform@2.4.0
+74 silly currentTree | `-- ms@2.1.3
+74 silly currentTree +-- lowercase-keys@1.0.1
+74 silly currentTree +-- lru-cache@6.0.0
+74 silly currentTree +-- make-dir@3.1.0
+74 silly currentTree | `-- semver@6.3.0
+74 silly currentTree +-- media-typer@0.3.0
+74 silly currentTree +-- memory-pager@1.5.0
+74 silly currentTree +-- merge-descriptors@1.0.1
+74 silly currentTree +-- methods@1.1.2
+74 silly currentTree +-- mime-db@1.52.0
+74 silly currentTree +-- mime-types@2.1.35
+74 silly currentTree +-- mime@1.6.0
+74 silly currentTree +-- mimic-response@1.0.1
+74 silly currentTree +-- minimatch@3.1.2
+74 silly currentTree +-- minimist@1.2.6
+74 silly currentTree +-- mongodb-connection-string-url@2.5.2
+74 silly currentTree +-- mongodb@4.3.1
+74 silly currentTree +-- mongoose@6.2.8
+74 silly currentTree | `-- ms@2.1.3
+74 silly currentTree +-- mpath@0.8.4
+74 silly currentTree +-- mquery@4.0.2
+74 silly currentTree | +-- debug@4.3.4
+74 silly currentTree | `-- ms@2.1.2
+74 silly currentTree +-- ms@2.0.0
+74 silly currentTree +-- negotiator@0.6.3
+74 silly currentTree +-- nodemon@2.0.15
+74 silly currentTree | +-- debug@3.2.7
+74 silly currentTree | `-- ms@2.1.3
+74 silly currentTree +-- nopt@1.0.10
+74 silly currentTree +-- normalize-path@3.0.0
+74 silly currentTree +-- normalize-url@4.5.1
+74 silly currentTree +-- object-assign@4.1.1
+74 silly currentTree +-- on-finished@2.3.0
+74 silly currentTree +-- once@1.4.0
+74 silly currentTree +-- one-time@1.0.0
+74 silly currentTree +-- p-cancelable@1.1.0
+74 silly currentTree +-- package-json@6.5.0
+74 silly currentTree | `-- semver@6.3.0
+74 silly currentTree +-- parseurl@1.3.3
+74 silly currentTree +-- path-to-regexp@0.1.7
+74 silly currentTree +-- picomatch@2.3.1
+74 silly currentTree +-- prepend-http@2.0.0
+74 silly currentTree +-- proxy-addr@2.0.7
+74 silly currentTree +-- pstree.remy@1.1.8
+74 silly currentTree +-- pump@3.0.0
+74 silly currentTree +-- punycode@2.1.1
+74 silly currentTree +-- pupa@2.1.1
+74 silly currentTree +-- qs@6.9.7
+74 silly currentTree +-- range-parser@1.2.1
+74 silly currentTree +-- raw-body@2.4.3
+74 silly currentTree +-- rc@1.2.8
+74 silly currentTree | `-- ini@1.3.8
+74 silly currentTree +-- readable-stream@3.6.0
+74 silly currentTree +-- readdirp@3.6.0
+74 silly currentTree +-- registry-auth-token@4.2.1
+74 silly currentTree +-- registry-url@5.1.0
+74 silly currentTree +-- responselike@1.0.2
+74 silly currentTree +-- safe-buffer@5.2.1
+74 silly currentTree +-- safe-stable-stringify@2.3.1
+74 silly currentTree +-- safer-buffer@2.1.2
+74 silly currentTree +-- saslprep@1.0.3
+74 silly currentTree +-- semver-diff@3.1.1
+74 silly currentTree | `-- semver@6.3.0
+74 silly currentTree +-- semver@5.7.1
+74 silly currentTree +-- send@0.17.2
+74 silly currentTree | `-- ms@2.1.3
+74 silly currentTree +-- serve-static@1.14.2
+74 silly currentTree +-- setprototypeof@1.2.0
+74 silly currentTree +-- sift@16.0.0
+74 silly currentTree +-- signal-exit@3.0.7
+74 silly currentTree +-- simple-swizzle@0.2.2
+74 silly currentTree +-- smart-buffer@4.2.0
+74 silly currentTree +-- socks@2.6.2
+74 silly currentTree +-- sparse-bitfield@3.0.3
+74 silly currentTree +-- stack-trace@0.0.10
+74 silly currentTree +-- statuses@1.5.0
+74 silly currentTree +-- string_decoder@1.3.0
+74 silly currentTree +-- string-width@4.2.3
+74 silly currentTree +-- strip-ansi@6.0.1
+74 silly currentTree +-- strip-json-comments@2.0.1
+74 silly currentTree +-- supports-color@5.5.0
+74 silly currentTree +-- text-hex@1.0.0
+74 silly currentTree +-- to-readable-stream@1.0.0
+74 silly currentTree +-- to-regex-range@5.0.1
+74 silly currentTree +-- toidentifier@1.0.1
+74 silly currentTree +-- touch@3.1.0
+74 silly currentTree +-- tr46@3.0.0
+74 silly currentTree +-- triple-beam@1.3.0
+74 silly currentTree +-- type-fest@0.20.2
+74 silly currentTree +-- type-is@1.6.18
+74 silly currentTree +-- typedarray-to-buffer@3.1.5
+74 silly currentTree +-- typescript@4.6.3
+74 silly currentTree +-- undefsafe@2.0.5
+74 silly currentTree +-- unique-string@2.0.0
+74 silly currentTree +-- unpipe@1.0.0
+74 silly currentTree +-- update-notifier@5.1.0
+74 silly currentTree | `-- semver@7.3.5
+74 silly currentTree +-- url-parse-lax@3.0.0
+74 silly currentTree +-- util-deprecate@1.0.2
+74 silly currentTree +-- utils-merge@1.0.1
+74 silly currentTree +-- vary@1.1.2
+74 silly currentTree +-- webidl-conversions@7.0.0
+74 silly currentTree +-- whatwg-url@11.0.0
+74 silly currentTree +-- widest-line@3.1.0
+74 silly currentTree +-- winston-transport@4.5.0
+74 silly currentTree +-- winston@3.6.0
+74 silly currentTree +-- wrap-ansi@7.0.0
+74 silly currentTree +-- wrappy@1.0.2
+74 silly currentTree +-- write-file-atomic@3.0.3
+74 silly currentTree +-- xdg-basedir@4.0.0
+74 silly currentTree `-- yallist@4.0.0
+75 silly idealTree dot-test@1.0.0
+75 silly idealTree +-- @colors/colors@1.5.0
+75 silly idealTree +-- @dabh/diagnostics@2.0.3
+75 silly idealTree +-- @sindresorhus/is@0.14.0
+75 silly idealTree +-- @socket.io/base64-arraybuffer@1.0.2
+75 silly idealTree +-- @szmarczak/http-timer@1.1.2
+75 silly idealTree +-- @types/bcryptjs@2.4.2
+75 silly idealTree +-- @types/body-parser@1.19.2
+75 silly idealTree +-- @types/component-emitter@1.2.11
+75 silly idealTree +-- @types/connect@3.4.35
+75 silly idealTree +-- @types/cookie@0.4.1
+75 silly idealTree +-- @types/cors@2.8.12
+75 silly idealTree +-- @types/dotenv@8.2.0
+75 silly idealTree +-- @types/express-serve-static-core@4.17.28
+75 silly idealTree +-- @types/express@4.17.13
+75 silly idealTree +-- @types/mime@1.3.2
+75 silly idealTree +-- @types/node@17.0.23
+75 silly idealTree +-- @types/qs@6.9.7
+75 silly idealTree +-- @types/range-parser@1.2.4
+75 silly idealTree +-- @types/serve-static@1.13.10
+75 silly idealTree +-- @types/webidl-conversions@6.1.1
+75 silly idealTree +-- @types/whatwg-url@8.2.1
+75 silly idealTree +-- abbrev@1.1.1
+75 silly idealTree +-- accepts@1.3.8
+75 silly idealTree +-- ansi-align@3.0.1
+75 silly idealTree +-- ansi-regex@5.0.1
+75 silly idealTree +-- ansi-styles@4.3.0
+75 silly idealTree | +-- color-convert@2.0.1
+75 silly idealTree | `-- color-name@1.1.4
+75 silly idealTree +-- anymatch@3.1.2
+75 silly idealTree +-- array-flatten@1.1.1
+75 silly idealTree +-- async@3.2.3
+75 silly idealTree +-- balanced-match@1.0.2
+75 silly idealTree +-- base64-js@1.5.1
+75 silly idealTree +-- base64id@2.0.0
+75 silly idealTree +-- bcryptjs@2.4.3
+75 silly idealTree +-- binary-extensions@2.2.0
+75 silly idealTree +-- body-parser@1.19.2
+75 silly idealTree +-- boxen@5.1.2
+75 silly idealTree +-- brace-expansion@1.1.11
+75 silly idealTree +-- braces@3.0.2
+75 silly idealTree +-- bson@4.6.2
+75 silly idealTree +-- buffer@5.7.1
+75 silly idealTree +-- bytes@3.1.2
+75 silly idealTree +-- cacheable-request@6.1.0
+75 silly idealTree | +-- get-stream@5.2.0
+75 silly idealTree | `-- lowercase-keys@2.0.0
+75 silly idealTree +-- camelcase@6.3.0
+75 silly idealTree +-- chalk@4.1.2
+75 silly idealTree | +-- has-flag@4.0.0
+75 silly idealTree | `-- supports-color@7.2.0
+75 silly idealTree +-- chokidar@3.5.3
+75 silly idealTree +-- ci-info@2.0.0
+75 silly idealTree +-- cli-boxes@2.2.1
+75 silly idealTree +-- clone-response@1.0.2
+75 silly idealTree +-- color-convert@1.9.3
+75 silly idealTree +-- color-name@1.1.3
+75 silly idealTree +-- color-string@1.9.0
+75 silly idealTree +-- color@3.2.1
+75 silly idealTree +-- colorspace@1.1.4
+75 silly idealTree +-- component-emitter@1.3.0
+75 silly idealTree +-- concat-map@0.0.1
+75 silly idealTree +-- configstore@5.0.1
+75 silly idealTree +-- content-disposition@0.5.4
+75 silly idealTree +-- content-type@1.0.4
+75 silly idealTree +-- cookie-signature@1.0.6
+75 silly idealTree +-- cookie@0.4.2
+75 silly idealTree +-- cors@2.8.5
+75 silly idealTree +-- crypto-random-string@2.0.0
+75 silly idealTree +-- debug@2.6.9
+75 silly idealTree +-- decompress-response@3.3.0
+75 silly idealTree +-- deep-extend@0.6.0
+75 silly idealTree +-- defer-to-connect@1.1.3
+75 silly idealTree +-- denque@2.0.1
+75 silly idealTree +-- depd@1.1.2
+75 silly idealTree +-- destroy@1.0.4
+75 silly idealTree +-- dot-prop@5.3.0
+75 silly idealTree +-- dotenv@16.0.0
+75 silly idealTree +-- duplexer3@0.1.4
+75 silly idealTree +-- ee-first@1.1.1
+75 silly idealTree +-- emoji-regex@8.0.0
+75 silly idealTree +-- enabled@2.0.0
+75 silly idealTree +-- encodeurl@1.0.2
+75 silly idealTree +-- end-of-stream@1.4.4
+75 silly idealTree +-- engine.io-parser@5.0.3
+75 silly idealTree +-- engine.io@6.1.3
+75 silly idealTree | +-- debug@4.3.4
+75 silly idealTree | `-- ms@2.1.2
+75 silly idealTree +-- escape-goat@2.1.1
+75 silly idealTree +-- escape-html@1.0.3
+75 silly idealTree +-- etag@1.8.1
+75 silly idealTree +-- express@4.17.3
+75 silly idealTree +-- fecha@4.2.1
+75 silly idealTree +-- fill-range@7.0.1
+75 silly idealTree +-- finalhandler@1.1.2
+75 silly idealTree +-- fn.name@1.1.0
+75 silly idealTree +-- forwarded@0.2.0
+75 silly idealTree +-- fresh@0.5.2
+75 silly idealTree +-- fsevents@2.3.2
+75 silly idealTree +-- get-stream@4.1.0
+75 silly idealTree +-- glob-parent@5.1.2
+75 silly idealTree +-- global-dirs@3.0.0
+75 silly idealTree +-- got@9.6.0
+75 silly idealTree +-- graceful-fs@4.2.9
+75 silly idealTree +-- has-flag@3.0.0
+75 silly idealTree +-- has-yarn@2.1.0
+75 silly idealTree +-- http-cache-semantics@4.1.0
+75 silly idealTree +-- http-errors@1.8.1
+75 silly idealTree +-- iconv-lite@0.4.24
+75 silly idealTree +-- ieee754@1.2.1
+75 silly idealTree +-- ignore-by-default@1.0.1
+75 silly idealTree +-- import-lazy@2.1.0
+75 silly idealTree +-- imurmurhash@0.1.4
+75 silly idealTree +-- inherits@2.0.4
+75 silly idealTree +-- ini@2.0.0
+75 silly idealTree +-- ip@1.1.5
+75 silly idealTree +-- ipaddr.js@1.9.1
+75 silly idealTree +-- is-arrayish@0.3.2
+75 silly idealTree +-- is-binary-path@2.1.0
+75 silly idealTree +-- is-ci@2.0.0
+75 silly idealTree +-- is-extglob@2.1.1
+75 silly idealTree +-- is-fullwidth-code-point@3.0.0
+75 silly idealTree +-- is-glob@4.0.3
+75 silly idealTree +-- is-installed-globally@0.4.0
+75 silly idealTree +-- is-npm@5.0.0
+75 silly idealTree +-- is-number@7.0.0
+75 silly idealTree +-- is-obj@2.0.0
+75 silly idealTree +-- is-path-inside@3.0.3
+75 silly idealTree +-- is-stream@2.0.1
+75 silly idealTree +-- is-typedarray@1.0.0
+75 silly idealTree +-- is-yarn-global@0.3.0
+75 silly idealTree +-- json-buffer@3.0.0
+75 silly idealTree +-- kareem@2.3.4
+75 silly idealTree +-- keyv@3.1.0
+75 silly idealTree +-- kuler@2.0.0
+75 silly idealTree +-- latest-version@5.1.0
+75 silly idealTree +-- logform@2.4.0
+75 silly idealTree | `-- ms@2.1.3
+75 silly idealTree +-- lowercase-keys@1.0.1
+75 silly idealTree +-- lru-cache@6.0.0
+75 silly idealTree +-- make-dir@3.1.0
+75 silly idealTree | `-- semver@6.3.0
+75 silly idealTree +-- media-typer@0.3.0
+75 silly idealTree +-- memory-pager@1.5.0
+75 silly idealTree +-- merge-descriptors@1.0.1
+75 silly idealTree +-- methods@1.1.2
+75 silly idealTree +-- mime-db@1.52.0
+75 silly idealTree +-- mime-types@2.1.35
+75 silly idealTree +-- mime@1.6.0
+75 silly idealTree +-- mimic-response@1.0.1
+75 silly idealTree +-- minimatch@3.1.2
+75 silly idealTree +-- minimist@1.2.6
+75 silly idealTree +-- mongodb-connection-string-url@2.5.2
+75 silly idealTree +-- mongodb@4.3.1
+75 silly idealTree +-- mongoose@6.2.8
+75 silly idealTree | `-- ms@2.1.3
+75 silly idealTree +-- mpath@0.8.4
+75 silly idealTree +-- mquery@4.0.2
+75 silly idealTree | +-- debug@4.3.4
+75 silly idealTree | `-- ms@2.1.2
+75 silly idealTree +-- ms@2.0.0
+75 silly idealTree +-- negotiator@0.6.3
+75 silly idealTree +-- nodemon@2.0.15
+75 silly idealTree | +-- debug@3.2.7
+75 silly idealTree | `-- ms@2.1.3
+75 silly idealTree +-- nopt@1.0.10
+75 silly idealTree +-- normalize-path@3.0.0
+75 silly idealTree +-- normalize-url@4.5.1
+75 silly idealTree +-- object-assign@4.1.1
+75 silly idealTree +-- on-finished@2.3.0
+75 silly idealTree +-- once@1.4.0
+75 silly idealTree +-- one-time@1.0.0
+75 silly idealTree +-- p-cancelable@1.1.0
+75 silly idealTree +-- package-json@6.5.0
+75 silly idealTree | `-- semver@6.3.0
+75 silly idealTree +-- parseurl@1.3.3
+75 silly idealTree +-- path-to-regexp@0.1.7
+75 silly idealTree +-- picomatch@2.3.1
+75 silly idealTree +-- prepend-http@2.0.0
+75 silly idealTree +-- proxy-addr@2.0.7
+75 silly idealTree +-- pstree.remy@1.1.8
+75 silly idealTree +-- pump@3.0.0
+75 silly idealTree +-- punycode@2.1.1
+75 silly idealTree +-- pupa@2.1.1
+75 silly idealTree +-- qs@6.9.7
+75 silly idealTree +-- range-parser@1.2.1
+75 silly idealTree +-- raw-body@2.4.3
+75 silly idealTree +-- rc@1.2.8
+75 silly idealTree | `-- ini@1.3.8
+75 silly idealTree +-- readable-stream@3.6.0
+75 silly idealTree +-- readdirp@3.6.0
+75 silly idealTree +-- registry-auth-token@4.2.1
+75 silly idealTree +-- registry-url@5.1.0
+75 silly idealTree +-- responselike@1.0.2
+75 silly idealTree +-- safe-buffer@5.2.1
+75 silly idealTree +-- safe-stable-stringify@2.3.1
+75 silly idealTree +-- safer-buffer@2.1.2
+75 silly idealTree +-- saslprep@1.0.3
+75 silly idealTree +-- semver-diff@3.1.1
+75 silly idealTree | `-- semver@6.3.0
+75 silly idealTree +-- semver@5.7.1
+75 silly idealTree +-- send@0.17.2
+75 silly idealTree | `-- ms@2.1.3
+75 silly idealTree +-- serve-static@1.14.2
+75 silly idealTree +-- setprototypeof@1.2.0
+75 silly idealTree +-- sift@16.0.0
+75 silly idealTree +-- signal-exit@3.0.7
+75 silly idealTree +-- simple-swizzle@0.2.2
+75 silly idealTree +-- smart-buffer@4.2.0
+75 silly idealTree +-- socket.io-adapter@2.3.3
+75 silly idealTree +-- socket.io-parser@4.0.4
+75 silly idealTree | +-- debug@4.3.4
+75 silly idealTree | `-- ms@2.1.2
+75 silly idealTree +-- socket.io@4.4.1
+75 silly idealTree | +-- debug@4.3.4
+75 silly idealTree | `-- ms@2.1.2
+75 silly idealTree +-- socks@2.6.2
+75 silly idealTree +-- sparse-bitfield@3.0.3
+75 silly idealTree +-- stack-trace@0.0.10
+75 silly idealTree +-- statuses@1.5.0
+75 silly idealTree +-- string_decoder@1.3.0
+75 silly idealTree +-- string-width@4.2.3
+75 silly idealTree +-- strip-ansi@6.0.1
+75 silly idealTree +-- strip-json-comments@2.0.1
+75 silly idealTree +-- supports-color@5.5.0
+75 silly idealTree +-- text-hex@1.0.0
+75 silly idealTree +-- to-readable-stream@1.0.0
+75 silly idealTree +-- to-regex-range@5.0.1
+75 silly idealTree +-- toidentifier@1.0.1
+75 silly idealTree +-- touch@3.1.0
+75 silly idealTree +-- tr46@3.0.0
+75 silly idealTree +-- triple-beam@1.3.0
+75 silly idealTree +-- type-fest@0.20.2
+75 silly idealTree +-- type-is@1.6.18
+75 silly idealTree +-- typedarray-to-buffer@3.1.5
+75 silly idealTree +-- typescript@4.6.3
+75 silly idealTree +-- undefsafe@2.0.5
+75 silly idealTree +-- unique-string@2.0.0
+75 silly idealTree +-- unpipe@1.0.0
+75 silly idealTree +-- update-notifier@5.1.0
+75 silly idealTree | `-- semver@7.3.5
+75 silly idealTree +-- url-parse-lax@3.0.0
+75 silly idealTree +-- util-deprecate@1.0.2
+75 silly idealTree +-- utils-merge@1.0.1
+75 silly idealTree +-- vary@1.1.2
+75 silly idealTree +-- webidl-conversions@7.0.0
+75 silly idealTree +-- whatwg-url@11.0.0
+75 silly idealTree +-- widest-line@3.1.0
+75 silly idealTree +-- winston-transport@4.5.0
+75 silly idealTree +-- winston@3.6.0
+75 silly idealTree +-- wrap-ansi@7.0.0
+75 silly idealTree +-- wrappy@1.0.2
+75 silly idealTree +-- write-file-atomic@3.0.3
+75 silly idealTree +-- ws@8.2.3
+75 silly idealTree +-- xdg-basedir@4.0.0
+75 silly idealTree `-- yallist@4.0.0
+76 silly install generateActionsToTake
+77 timing stage:generateActionsToTake Completed in 110ms
+78 silly diffTrees action count 18
+79 silly diffTrees add @socket.io/base64-arraybuffer@1.0.2
+80 silly diffTrees add @types/component-emitter@1.2.11
+81 silly diffTrees add @types/cookie@0.4.1
+82 silly diffTrees add base64id@2.0.0
+83 silly diffTrees add component-emitter@1.3.0
+84 silly diffTrees add engine.io-parser@5.0.3
+85 silly diffTrees add ms@2.1.2
+86 silly diffTrees add debug@4.3.4
+87 silly diffTrees add fsevents@2.3.2
+88 silly diffTrees add ms@2.1.2
+89 silly diffTrees add debug@4.3.4
+90 silly diffTrees add ms@2.1.2
+91 silly diffTrees add ws@8.2.3
+92 silly diffTrees add engine.io@6.1.3
+93 silly diffTrees add socket.io-adapter@2.3.3
+94 silly diffTrees add socket.io-parser@4.0.4
+95 silly diffTrees add debug@4.3.4
+96 silly diffTrees add socket.io@4.4.1
+97 silly decomposeActions action count 144
+98 silly decomposeActions fetch @socket.io/base64-arraybuffer@1.0.2
+99 silly decomposeActions extract @socket.io/base64-arraybuffer@1.0.2
+100 silly decomposeActions preinstall @socket.io/base64-arraybuffer@1.0.2
+101 silly decomposeActions build @socket.io/base64-arraybuffer@1.0.2
+102 silly decomposeActions install @socket.io/base64-arraybuffer@1.0.2
+103 silly decomposeActions postinstall @socket.io/base64-arraybuffer@1.0.2
+104 silly decomposeActions finalize @socket.io/base64-arraybuffer@1.0.2
+105 silly decomposeActions refresh-package-json @socket.io/base64-arraybuffer@1.0.2
+106 silly decomposeActions fetch @types/component-emitter@1.2.11
+107 silly decomposeActions extract @types/component-emitter@1.2.11
+108 silly decomposeActions preinstall @types/component-emitter@1.2.11
+109 silly decomposeActions build @types/component-emitter@1.2.11
+110 silly decomposeActions install @types/component-emitter@1.2.11
+111 silly decomposeActions postinstall @types/component-emitter@1.2.11
+112 silly decomposeActions finalize @types/component-emitter@1.2.11
+113 silly decomposeActions refresh-package-json @types/component-emitter@1.2.11
+114 silly decomposeActions fetch @types/cookie@0.4.1
+115 silly decomposeActions extract @types/cookie@0.4.1
+116 silly decomposeActions preinstall @types/cookie@0.4.1
+117 silly decomposeActions build @types/cookie@0.4.1
+118 silly decomposeActions install @types/cookie@0.4.1
+119 silly decomposeActions postinstall @types/cookie@0.4.1
+120 silly decomposeActions finalize @types/cookie@0.4.1
+121 silly decomposeActions refresh-package-json @types/cookie@0.4.1
+122 silly decomposeActions fetch base64id@2.0.0
+123 silly decomposeActions extract base64id@2.0.0
+124 silly decomposeActions preinstall base64id@2.0.0
+125 silly decomposeActions build base64id@2.0.0
+126 silly decomposeActions install base64id@2.0.0
+127 silly decomposeActions postinstall base64id@2.0.0
+128 silly decomposeActions finalize base64id@2.0.0
+129 silly decomposeActions refresh-package-json base64id@2.0.0
+130 silly decomposeActions fetch component-emitter@1.3.0
+131 silly decomposeActions extract component-emitter@1.3.0
+132 silly decomposeActions preinstall component-emitter@1.3.0
+133 silly decomposeActions build component-emitter@1.3.0
+134 silly decomposeActions install component-emitter@1.3.0
+135 silly decomposeActions postinstall component-emitter@1.3.0
+136 silly decomposeActions finalize component-emitter@1.3.0
+137 silly decomposeActions refresh-package-json component-emitter@1.3.0
+138 silly decomposeActions fetch engine.io-parser@5.0.3
+139 silly decomposeActions extract engine.io-parser@5.0.3
+140 silly decomposeActions preinstall engine.io-parser@5.0.3
+141 silly decomposeActions build engine.io-parser@5.0.3
+142 silly decomposeActions install engine.io-parser@5.0.3
+143 silly decomposeActions postinstall engine.io-parser@5.0.3
+144 silly decomposeActions finalize engine.io-parser@5.0.3
+145 silly decomposeActions refresh-package-json engine.io-parser@5.0.3
+146 silly decomposeActions fetch ms@2.1.2
+147 silly decomposeActions extract ms@2.1.2
+148 silly decomposeActions preinstall ms@2.1.2
+149 silly decomposeActions build ms@2.1.2
+150 silly decomposeActions install ms@2.1.2
+151 silly decomposeActions postinstall ms@2.1.2
+152 silly decomposeActions finalize ms@2.1.2
+153 silly decomposeActions refresh-package-json ms@2.1.2
+154 silly decomposeActions fetch debug@4.3.4
+155 silly decomposeActions extract debug@4.3.4
+156 silly decomposeActions preinstall debug@4.3.4
+157 silly decomposeActions build debug@4.3.4
+158 silly decomposeActions install debug@4.3.4
+159 silly decomposeActions postinstall debug@4.3.4
+160 silly decomposeActions finalize debug@4.3.4
+161 silly decomposeActions refresh-package-json debug@4.3.4
+162 silly decomposeActions fetch fsevents@2.3.2
+163 silly decomposeActions extract fsevents@2.3.2
+164 silly decomposeActions preinstall fsevents@2.3.2
+165 silly decomposeActions build fsevents@2.3.2
+166 silly decomposeActions install fsevents@2.3.2
+167 silly decomposeActions postinstall fsevents@2.3.2
+168 silly decomposeActions finalize fsevents@2.3.2
+169 silly decomposeActions refresh-package-json fsevents@2.3.2
+170 silly decomposeActions fetch ms@2.1.2
+171 silly decomposeActions extract ms@2.1.2
+172 silly decomposeActions preinstall ms@2.1.2
+173 silly decomposeActions build ms@2.1.2
+174 silly decomposeActions install ms@2.1.2
+175 silly decomposeActions postinstall ms@2.1.2
+176 silly decomposeActions finalize ms@2.1.2
+177 silly decomposeActions refresh-package-json ms@2.1.2
+178 silly decomposeActions fetch debug@4.3.4
+179 silly decomposeActions extract debug@4.3.4
+180 silly decomposeActions preinstall debug@4.3.4
+181 silly decomposeActions build debug@4.3.4
+182 silly decomposeActions install debug@4.3.4
+183 silly decomposeActions postinstall debug@4.3.4
+184 silly decomposeActions finalize debug@4.3.4
+185 silly decomposeActions refresh-package-json debug@4.3.4
+186 silly decomposeActions fetch ms@2.1.2
+187 silly decomposeActions extract ms@2.1.2
+188 silly decomposeActions preinstall ms@2.1.2
+189 silly decomposeActions build ms@2.1.2
+190 silly decomposeActions install ms@2.1.2
+191 silly decomposeActions postinstall ms@2.1.2
+192 silly decomposeActions finalize ms@2.1.2
+193 silly decomposeActions refresh-package-json ms@2.1.2
+194 silly decomposeActions fetch ws@8.2.3
+195 silly decomposeActions extract ws@8.2.3
+196 silly decomposeActions preinstall ws@8.2.3
+197 silly decomposeActions build ws@8.2.3
+198 silly decomposeActions install ws@8.2.3
+199 silly decomposeActions postinstall ws@8.2.3
+200 silly decomposeActions finalize ws@8.2.3
+201 silly decomposeActions refresh-package-json ws@8.2.3
+202 silly decomposeActions fetch engine.io@6.1.3
+203 silly decomposeActions extract engine.io@6.1.3
+204 silly decomposeActions preinstall engine.io@6.1.3
+205 silly decomposeActions build engine.io@6.1.3
+206 silly decomposeActions install engine.io@6.1.3
+207 silly decomposeActions postinstall engine.io@6.1.3
+208 silly decomposeActions finalize engine.io@6.1.3
+209 silly decomposeActions refresh-package-json engine.io@6.1.3
+210 silly decomposeActions fetch socket.io-adapter@2.3.3
+211 silly decomposeActions extract socket.io-adapter@2.3.3
+212 silly decomposeActions preinstall socket.io-adapter@2.3.3
+213 silly decomposeActions build socket.io-adapter@2.3.3
+214 silly decomposeActions install socket.io-adapter@2.3.3
+215 silly decomposeActions postinstall socket.io-adapter@2.3.3
+216 silly decomposeActions finalize socket.io-adapter@2.3.3
+217 silly decomposeActions refresh-package-json socket.io-adapter@2.3.3
+218 silly decomposeActions fetch socket.io-parser@4.0.4
+219 silly decomposeActions extract socket.io-parser@4.0.4
+220 silly decomposeActions preinstall socket.io-parser@4.0.4
+221 silly decomposeActions build socket.io-parser@4.0.4
+222 silly decomposeActions install socket.io-parser@4.0.4
+223 silly decomposeActions postinstall socket.io-parser@4.0.4
+224 silly decomposeActions finalize socket.io-parser@4.0.4
+225 silly decomposeActions refresh-package-json socket.io-parser@4.0.4
+226 silly decomposeActions fetch debug@4.3.4
+227 silly decomposeActions extract debug@4.3.4
+228 silly decomposeActions preinstall debug@4.3.4
+229 silly decomposeActions build debug@4.3.4
+230 silly decomposeActions install debug@4.3.4
+231 silly decomposeActions postinstall debug@4.3.4
+232 silly decomposeActions finalize debug@4.3.4
+233 silly decomposeActions refresh-package-json debug@4.3.4
+234 silly decomposeActions fetch socket.io@4.4.1
+235 silly decomposeActions extract socket.io@4.4.1
+236 silly decomposeActions preinstall socket.io@4.4.1
+237 silly decomposeActions build socket.io@4.4.1
+238 silly decomposeActions install socket.io@4.4.1
+239 silly decomposeActions postinstall socket.io@4.4.1
+240 silly decomposeActions finalize socket.io@4.4.1
+241 silly decomposeActions refresh-package-json socket.io@4.4.1
+242 silly install executeActions
+243 silly doSerial global-install 144
+244 verbose correctMkdir C:\typescript\tmpnodejsnpm-cache\_locks correctMkdir not in flight; initializing
+245 verbose makeCacheDir UID & GID are irrelevant on win32
+246 verbose lock using C:\typescript\tmpnodejsnpm-cache\_locks\staging-cfd53643a45ed075.lock for C:\typescript\node_modules\.staging
+247 silly doParallel extract 18
+248 silly extract @socket.io/base64-arraybuffer@1.0.2
+249 silly extract @types/component-emitter@1.2.11
+250 silly extract @types/cookie@0.4.1
+251 silly extract base64id@2.0.0
+252 silly extract component-emitter@1.3.0
+253 silly extract engine.io-parser@5.0.3
+254 silly extract ms@2.1.2
+255 silly extract debug@4.3.4
+256 silly extract ms@2.1.2
+257 silly extract debug@4.3.4
+258 silly extract ms@2.1.2
+259 silly extract ws@8.2.3
+260 silly extract engine.io@6.1.3
+261 silly extract socket.io-adapter@2.3.3
+262 silly extract socket.io-parser@4.0.4
+263 silly extract debug@4.3.4
+264 silly extract socket.io@4.4.1
+265 silly extract fsevents@2.3.2
+266 silly tarball trying base64id@~2.0.0 by hash: sha512-lGe34o6EHj9y3Kts9R4ZYs/Gr+6N7MCaMlIFA3F1R2O5/m7K06AxfSeO5530PEERE6/WyEg3lsuyw4GHlPZHog==
+267 silly tarball trying component-emitter@~1.3.0 by hash: sha512-Rd3se6QB+sO1TwqZjscQrurpEPIfO0/yYnSin6Q/rD3mOutHvUrCAhJub3r90uNb+SESBuE0QYoB90YdfatsRg==
+268 silly tarball trying engine.io-parser@~5.0.3 by hash: sha512-BtQxwF27XUNnSafQLvDi0dQ8s3i6VgzSoQMJacpIcGNrlUdfHSKbgm3jmjCVvQluGzqwujQMPAoMai3oYSTurg==
+269 silly tarball trying ms@2.1.2 by hash: sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==
+270 silly tarball trying debug@~4.3.1 by hash: sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==
+271 silly tarball trying ms@2.1.2 by hash: sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==
+272 silly tarball trying debug@~4.3.1 by hash: sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==
+273 silly tarball trying ms@2.1.2 by hash: sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==
+274 silly tarball trying ws@~8.2.3 by hash: sha512-wBuoj1BDpC6ZQ1B7DWQBYVLphPWkm8i9Y0/3YdHjHKHiohOJ1ws+3OccDWtH+PoC9DZD5WOTrJvNbWvjS6JWaA==
+275 silly tarball trying engine.io@~6.1.0 by hash: sha512-rqs60YwkvWTLLnfazqgZqLa/aKo+9cueVfEi/dZ8PyGyaf8TLOxj++4QMIgeG3Gn0AhrWiFXvghsoY9L9h25GA==
+276 silly tarball trying socket.io-adapter@~2.3.3 by hash: sha512-Qd/iwn3VskrpNO60BeRyCyr8ZWw9CPZyitW4AQwmRZ8zCiyDiL+znRnWX6tDHXnWn1sJrM1+b6Mn6wEDJJ4aYQ==
+277 silly tarball trying socket.io-parser@~4.0.4 by hash: sha512-t+b0SS+IxG7Rxzda2EVvyBZbvFPBCjJoyHuE0P//7OAsN23GItzDRdWa6ALxZI/8R5ygK7jAR6t028/z+7295g==
+278 silly tarball trying debug@~4.3.2 by hash: sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==
+279 silly tarball trying socket.io@latest by hash: sha512-s04vrBswdQBUmuWJuuNTmXUVJhP0cVky8bBDhdkf8y0Ptsu7fKU2LuLbts9g+pdmAdyMMn8F/9Mf1/wbtUN0fg==
+280 silly tarball trying fsevents@2.3.2 by hash: sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==
+281 silly tarball trying @socket.io/base64-arraybuffer@~1.0.2 by hash: sha512-dOlCBKnDw4iShaIsH/bxujKTM18+2TOAsYz+KSc11Am38H4q5Xw8Bbz97ZYdrVNM+um3p7w86Bvvmcn9q+5+eQ==
+282 silly tarball trying @types/component-emitter@^1.2.10 by hash: sha512-SRXjM+tfsSlA9VuG8hGO2nft2p8zjXCK1VcC6N4NXbBbYbSia9kzCChYQajIjzIqOOOuh5Ock6MmV2oux4jDZQ==
+283 silly tarball trying @types/cookie@^0.4.1 by hash: sha512-XW/Aa8APYr6jSVVA1y/DEIZX0/GMKLEVekNG727R8cs56ahETkRAy/3DR7+fJyh7oUgGwNQaRfXCun0+KbWY7Q==
+284 silly extract ms@2.1.2 extracted to C:\typescript\node_modules\.staging\ms-50da5324 (428ms)
+285 silly extract ms@2.1.2 extracted to C:\typescript\node_modules\.staging\ms-efd32f5d (427ms)
+286 silly extract ms@2.1.2 extracted to C:\typescript\node_modules\.staging\ms-9eb66154 (426ms)
+287 silly extract @types/component-emitter@^1.2.10 extracted to C:\typescript\node_modules\.staging\@types\component-emitter-dddf0693 (458ms)
+288 silly extract @types/cookie@^0.4.1 extracted to C:\typescript\node_modules\.staging\@types\cookie-525fd07d (465ms)
+289 silly extract component-emitter@~1.3.0 extracted to C:\typescript\node_modules\.staging\component-emitter-195b0219 (499ms)
+290 timing audit submit Completed in 548ms
+291 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/audits/quick 547ms
+292 timing audit body Completed in 7ms
+293 silly extract base64id@~2.0.0 extracted to C:\typescript\node_modules\.staging\base64id-d7050dc4 (516ms)
+294 silly extract fsevents@2.3.2 extracted to C:\typescript\node_modules\.staging\fsevents-41e36321 (568ms)
+295 silly extract debug@~4.3.1 extracted to C:\typescript\node_modules\.staging\debug-590ebca8 (579ms)
+296 silly extract debug@~4.3.1 extracted to C:\typescript\node_modules\.staging\debug-eb883ad9 (578ms)
+297 silly extract debug@~4.3.2 extracted to C:\typescript\node_modules\.staging\debug-188a43d4 (575ms)
+298 silly extract socket.io-parser@~4.0.4 extracted to C:\typescript\node_modules\.staging\socket.io-parser-c61abff8 (642ms)
+299 silly extract socket.io-adapter@~2.3.3 extracted to C:\typescript\node_modules\.staging\socket.io-adapter-f445bbbd (670ms)
+300 silly extract @socket.io/base64-arraybuffer@~1.0.2 extracted to C:\typescript\node_modules\.staging\@socket.io\base64-arraybuffer-8924f5d7 (684ms)
+301 silly extract engine.io-parser@~5.0.3 extracted to C:\typescript\node_modules\.staging\engine.io-parser-2a72f287 (785ms)
+302 silly extract ws@~8.2.3 extracted to C:\typescript\node_modules\.staging\ws-7c84353d (794ms)
+303 silly extract socket.io@latest extracted to C:\typescript\node_modules\.staging\socket.io-df2f8982 (915ms)
+304 silly extract engine.io@~6.1.0 extracted to C:\typescript\node_modules\.staging\engine.io-9946b2fe (965ms)
+305 timing action:extract Completed in 982ms
+306 silly doReverseSerial unbuild 144
+307 silly doSerial remove 144
+308 silly doSerial move 144
+309 silly doSerial finalize 144
+310 silly finalize C:\typescript\node_modules\@socket.io\base64-arraybuffer
+311 silly finalize C:\typescript\node_modules\@types\component-emitter
+312 silly finalize C:\typescript\node_modules\@types\cookie
+313 silly finalize C:\typescript\node_modules\base64id
+314 silly finalize C:\typescript\node_modules\component-emitter
+315 silly finalize C:\typescript\node_modules\engine.io-parser
+316 silly finalize C:\typescript\node_modules\engine.io\node_modules\ms
+317 silly finalize C:\typescript\node_modules\engine.io\node_modules\debug
+318 silly finalize C:\typescript\node_modules\fsevents
+319 silly finalize C:\typescript\node_modules\socket.io-parser\node_modules\ms
+320 silly finalize C:\typescript\node_modules\socket.io-parser\node_modules\debug
+321 silly finalize C:\typescript\node_modules\socket.io\node_modules\ms
+322 silly finalize C:\typescript\node_modules\ws
+323 silly finalize C:\typescript\node_modules\engine.io
+324 silly finalize C:\typescript\node_modules\socket.io-adapter
+325 silly finalize C:\typescript\node_modules\socket.io-parser
+326 silly finalize C:\typescript\node_modules\socket.io\node_modules\debug
+327 silly finalize C:\typescript\node_modules\socket.io
+328 timing action:finalize Completed in 324ms
+329 silly doParallel refresh-package-json 18
+330 silly refresh-package-json C:\typescript\node_modules\@socket.io\base64-arraybuffer
+331 silly refresh-package-json C:\typescript\node_modules\@types\component-emitter
+332 silly refresh-package-json C:\typescript\node_modules\@types\cookie
+333 silly refresh-package-json C:\typescript\node_modules\base64id
+334 silly refresh-package-json C:\typescript\node_modules\component-emitter
+335 silly refresh-package-json C:\typescript\node_modules\engine.io-parser
+336 silly refresh-package-json C:\typescript\node_modules\engine.io\node_modules\ms
+337 silly refresh-package-json C:\typescript\node_modules\engine.io\node_modules\debug
+338 silly refresh-package-json C:\typescript\node_modules\fsevents
+339 silly refresh-package-json C:\typescript\node_modules\socket.io-parser\node_modules\ms
+340 silly refresh-package-json C:\typescript\node_modules\socket.io-parser\node_modules\debug
+341 silly refresh-package-json C:\typescript\node_modules\socket.io\node_modules\ms
+342 silly refresh-package-json C:\typescript\node_modules\ws
+343 silly refresh-package-json C:\typescript\node_modules\engine.io
+344 silly refresh-package-json C:\typescript\node_modules\socket.io-adapter
+345 silly refresh-package-json C:\typescript\node_modules\socket.io-parser
+346 silly refresh-package-json C:\typescript\node_modules\socket.io\node_modules\debug
+347 silly refresh-package-json C:\typescript\node_modules\socket.io
+348 timing action:refresh-package-json Completed in 373ms
+349 verbose unlock done using C:\typescript\tmpnodejsnpm-cache\_locks\staging-cfd53643a45ed075.lock for C:\typescript\node_modules\.staging
+350 timing stage:rollbackFailedOptional Completed in 316ms
+351 timing stage:runTopLevelLifecycles Completed in 14603ms
+352 silly saveTree dot-test@1.0.0
+352 silly saveTree +-- @types/bcryptjs@2.4.2
+352 silly saveTree +-- @types/cors@2.8.12
+352 silly saveTree +-- @types/dotenv@8.2.0
+352 silly saveTree | `-- dotenv@16.0.0
+352 silly saveTree +-- @types/express@4.17.13
+352 silly saveTree | +-- @types/body-parser@1.19.2
+352 silly saveTree | | +-- @types/connect@3.4.35
+352 silly saveTree | | | `-- @types/node@17.0.23
+352 silly saveTree | | `-- @types/node@17.0.23
+352 silly saveTree | +-- @types/express-serve-static-core@4.17.28
+352 silly saveTree | | +-- @types/qs@6.9.7
+352 silly saveTree | | `-- @types/range-parser@1.2.4
+352 silly saveTree | +-- @types/qs@6.9.7
+352 silly saveTree | `-- @types/serve-static@1.13.10
+352 silly saveTree |   `-- @types/mime@1.3.2
+352 silly saveTree +-- bcryptjs@2.4.3
+352 silly saveTree +-- cors@2.8.5
+352 silly saveTree | +-- object-assign@4.1.1
+352 silly saveTree | `-- vary@1.1.2
+352 silly saveTree +-- express@4.17.3
+352 silly saveTree | +-- accepts@1.3.8
+352 silly saveTree | | +-- mime-types@2.1.35
+352 silly saveTree | | | `-- mime-db@1.52.0
+352 silly saveTree | | `-- negotiator@0.6.3
+352 silly saveTree | +-- array-flatten@1.1.1
+352 silly saveTree | +-- body-parser@1.19.2
+352 silly saveTree | | +-- bytes@3.1.2
+352 silly saveTree | | +-- content-type@1.0.4
+352 silly saveTree | | +-- debug@2.6.9
+352 silly saveTree | | | `-- ms@2.0.0
+352 silly saveTree | | +-- depd@1.1.2
+352 silly saveTree | | +-- http-errors@1.8.1
+352 silly saveTree | | | +-- inherits@2.0.4
+352 silly saveTree | | | +-- setprototypeof@1.2.0
+352 silly saveTree | | | +-- statuses@1.5.0
+352 silly saveTree | | | `-- toidentifier@1.0.1
+352 silly saveTree | | +-- iconv-lite@0.4.24
+352 silly saveTree | | | `-- safer-buffer@2.1.2
+352 silly saveTree | | +-- on-finished@2.3.0
+352 silly saveTree | | | `-- ee-first@1.1.1
+352 silly saveTree | | +-- qs@6.9.7
+352 silly saveTree | | +-- raw-body@2.4.3
+352 silly saveTree | | | `-- unpipe@1.0.0
+352 silly saveTree | | `-- type-is@1.6.18
+352 silly saveTree | |   `-- media-typer@0.3.0
+352 silly saveTree | +-- content-disposition@0.5.4
+352 silly saveTree | | `-- safe-buffer@5.2.1
+352 silly saveTree | +-- content-type@1.0.4
+352 silly saveTree | +-- cookie-signature@1.0.6
+352 silly saveTree | +-- cookie@0.4.2
+352 silly saveTree | +-- debug@2.6.9
+352 silly saveTree | +-- depd@1.1.2
+352 silly saveTree | +-- encodeurl@1.0.2
+352 silly saveTree | +-- escape-html@1.0.3
+352 silly saveTree | +-- etag@1.8.1
+352 silly saveTree | +-- finalhandler@1.1.2
+352 silly saveTree | | `-- parseurl@1.3.3
+352 silly saveTree | +-- fresh@0.5.2
+352 silly saveTree | +-- merge-descriptors@1.0.1
+352 silly saveTree | +-- methods@1.1.2
+352 silly saveTree | +-- on-finished@2.3.0
+352 silly saveTree | +-- parseurl@1.3.3
+352 silly saveTree | +-- path-to-regexp@0.1.7
+352 silly saveTree | +-- proxy-addr@2.0.7
+352 silly saveTree | | +-- forwarded@0.2.0
+352 silly saveTree | | `-- ipaddr.js@1.9.1
+352 silly saveTree | +-- qs@6.9.7
+352 silly saveTree | +-- range-parser@1.2.1
+352 silly saveTree | +-- safe-buffer@5.2.1
+352 silly saveTree | +-- send@0.17.2
+352 silly saveTree | | +-- destroy@1.0.4
+352 silly saveTree | | +-- mime@1.6.0
+352 silly saveTree | | `-- ms@2.1.3
+352 silly saveTree | +-- serve-static@1.14.2
+352 silly saveTree | +-- setprototypeof@1.2.0
+352 silly saveTree | +-- statuses@1.5.0
+352 silly saveTree | +-- type-is@1.6.18
+352 silly saveTree | `-- utils-merge@1.0.1
+352 silly saveTree +-- mongoose@6.2.8
+352 silly saveTree | +-- bson@4.6.2
+352 silly saveTree | | `-- buffer@5.7.1
+352 silly saveTree | |   +-- base64-js@1.5.1
+352 silly saveTree | |   `-- ieee754@1.2.1
+352 silly saveTree | +-- kareem@2.3.4
+352 silly saveTree | +-- mongodb@4.3.1
+352 silly saveTree | | +-- denque@2.0.1
+352 silly saveTree | | +-- mongodb-connection-string-url@2.5.2
+352 silly saveTree | | | +-- @types/whatwg-url@8.2.1
+352 silly saveTree | | | | `-- @types/webidl-conversions@6.1.1
+352 silly saveTree | | | `-- whatwg-url@11.0.0
+352 silly saveTree | | |   +-- tr46@3.0.0
+352 silly saveTree | | |   | `-- punycode@2.1.1
+352 silly saveTree | | |   `-- webidl-conversions@7.0.0
+352 silly saveTree | | +-- saslprep@1.0.3
+352 silly saveTree | | | `-- sparse-bitfield@3.0.3
+352 silly saveTree | | |   `-- memory-pager@1.5.0
+352 silly saveTree | | `-- socks@2.6.2
+352 silly saveTree | |   +-- ip@1.1.5
+352 silly saveTree | |   `-- smart-buffer@4.2.0
+352 silly saveTree | +-- mpath@0.8.4
+352 silly saveTree | +-- mquery@4.0.2
+352 silly saveTree | | `-- debug@4.3.4
+352 silly saveTree | |   `-- ms@2.1.2
+352 silly saveTree | +-- ms@2.1.3
+352 silly saveTree | `-- sift@16.0.0
+352 silly saveTree +-- nodemon@2.0.15
+352 silly saveTree | +-- chokidar@3.5.3
+352 silly saveTree | | +-- anymatch@3.1.2
+352 silly saveTree | | | +-- normalize-path@3.0.0
+352 silly saveTree | | | `-- picomatch@2.3.1
+352 silly saveTree | | +-- braces@3.0.2
+352 silly saveTree | | | `-- fill-range@7.0.1
+352 silly saveTree | | |   `-- to-regex-range@5.0.1
+352 silly saveTree | | |     `-- is-number@7.0.0
+352 silly saveTree | | +-- fsevents@2.3.2
+352 silly saveTree | | +-- glob-parent@5.1.2
+352 silly saveTree | | | `-- is-glob@4.0.3
+352 silly saveTree | | |   `-- is-extglob@2.1.1
+352 silly saveTree | | +-- is-binary-path@2.1.0
+352 silly saveTree | | | `-- binary-extensions@2.2.0
+352 silly saveTree | | +-- is-glob@4.0.3
+352 silly saveTree | | +-- normalize-path@3.0.0
+352 silly saveTree | | `-- readdirp@3.6.0
+352 silly saveTree | +-- debug@3.2.7
+352 silly saveTree | | `-- ms@2.1.3
+352 silly saveTree | +-- ignore-by-default@1.0.1
+352 silly saveTree | +-- minimatch@3.1.2
+352 silly saveTree | | `-- brace-expansion@1.1.11
+352 silly saveTree | |   +-- balanced-match@1.0.2
+352 silly saveTree | |   `-- concat-map@0.0.1
+352 silly saveTree | +-- pstree.remy@1.1.8
+352 silly saveTree | +-- semver@5.7.1
+352 silly saveTree | +-- supports-color@5.5.0
+352 silly saveTree | | `-- has-flag@3.0.0
+352 silly saveTree | +-- touch@3.1.0
+352 silly saveTree | | `-- nopt@1.0.10
+352 silly saveTree | |   `-- abbrev@1.1.1
+352 silly saveTree | +-- undefsafe@2.0.5
+352 silly saveTree | `-- update-notifier@5.1.0
+352 silly saveTree |   +-- boxen@5.1.2
+352 silly saveTree |   | +-- ansi-align@3.0.1
+352 silly saveTree |   | | `-- string-width@4.2.3
+352 silly saveTree |   | |   +-- emoji-regex@8.0.0
+352 silly saveTree |   | |   +-- is-fullwidth-code-point@3.0.0
+352 silly saveTree |   | |   `-- strip-ansi@6.0.1
+352 silly saveTree |   | |     `-- ansi-regex@5.0.1
+352 silly saveTree |   | +-- camelcase@6.3.0
+352 silly saveTree |   | +-- chalk@4.1.2
+352 silly saveTree |   | | +-- ansi-styles@4.3.0
+352 silly saveTree |   | | | `-- color-convert@2.0.1
+352 silly saveTree |   | | |   `-- color-name@1.1.4
+352 silly saveTree |   | | `-- supports-color@7.2.0
+352 silly saveTree |   | |   `-- has-flag@4.0.0
+352 silly saveTree |   | +-- cli-boxes@2.2.1
+352 silly saveTree |   | +-- string-width@4.2.3
+352 silly saveTree |   | +-- type-fest@0.20.2
+352 silly saveTree |   | +-- widest-line@3.1.0
+352 silly saveTree |   | `-- wrap-ansi@7.0.0
+352 silly saveTree |   +-- chalk@4.1.2
+352 silly saveTree |   +-- configstore@5.0.1
+352 silly saveTree |   | +-- dot-prop@5.3.0
+352 silly saveTree |   | | `-- is-obj@2.0.0
+352 silly saveTree |   | +-- graceful-fs@4.2.9
+352 silly saveTree |   | +-- make-dir@3.1.0
+352 silly saveTree |   | | `-- semver@6.3.0
+352 silly saveTree |   | +-- unique-string@2.0.0
+352 silly saveTree |   | | `-- crypto-random-string@2.0.0
+352 silly saveTree |   | +-- write-file-atomic@3.0.3
+352 silly saveTree |   | | +-- imurmurhash@0.1.4
+352 silly saveTree |   | | +-- is-typedarray@1.0.0
+352 silly saveTree |   | | +-- signal-exit@3.0.7
+352 silly saveTree |   | | `-- typedarray-to-buffer@3.1.5
+352 silly saveTree |   | `-- xdg-basedir@4.0.0
+352 silly saveTree |   +-- has-yarn@2.1.0
+352 silly saveTree |   +-- import-lazy@2.1.0
+352 silly saveTree |   +-- is-ci@2.0.0
+352 silly saveTree |   | `-- ci-info@2.0.0
+352 silly saveTree |   +-- is-installed-globally@0.4.0
+352 silly saveTree |   | +-- global-dirs@3.0.0
+352 silly saveTree |   | | `-- ini@2.0.0
+352 silly saveTree |   | `-- is-path-inside@3.0.3
+352 silly saveTree |   +-- is-npm@5.0.0
+352 silly saveTree |   +-- is-yarn-global@0.3.0
+352 silly saveTree |   +-- latest-version@5.1.0
+352 silly saveTree |   | `-- package-json@6.5.0
+352 silly saveTree |   |   +-- got@9.6.0
+352 silly saveTree |   |   | +-- @sindresorhus/is@0.14.0
+352 silly saveTree |   |   | +-- @szmarczak/http-timer@1.1.2
+352 silly saveTree |   |   | | `-- defer-to-connect@1.1.3
+352 silly saveTree |   |   | +-- cacheable-request@6.1.0
+352 silly saveTree |   |   | | +-- clone-response@1.0.2
+352 silly saveTree |   |   | | | `-- mimic-response@1.0.1
+352 silly saveTree |   |   | | +-- get-stream@5.2.0
+352 silly saveTree |   |   | | | `-- pump@3.0.0
+352 silly saveTree |   |   | | |   +-- end-of-stream@1.4.4
+352 silly saveTree |   |   | | |   | `-- once@1.4.0
+352 silly saveTree |   |   | | |   |   `-- wrappy@1.0.2
+352 silly saveTree |   |   | | |   `-- once@1.4.0
+352 silly saveTree |   |   | | +-- http-cache-semantics@4.1.0
+352 silly saveTree |   |   | | +-- keyv@3.1.0
+352 silly saveTree |   |   | | | `-- json-buffer@3.0.0
+352 silly saveTree |   |   | | +-- lowercase-keys@2.0.0
+352 silly saveTree |   |   | | +-- normalize-url@4.5.1
+352 silly saveTree |   |   | | `-- responselike@1.0.2
+352 silly saveTree |   |   | |   `-- lowercase-keys@1.0.1
+352 silly saveTree |   |   | +-- decompress-response@3.3.0
+352 silly saveTree |   |   | +-- duplexer3@0.1.4
+352 silly saveTree |   |   | +-- get-stream@4.1.0
+352 silly saveTree |   |   | +-- lowercase-keys@1.0.1
+352 silly saveTree |   |   | +-- mimic-response@1.0.1
+352 silly saveTree |   |   | +-- p-cancelable@1.1.0
+352 silly saveTree |   |   | +-- to-readable-stream@1.0.0
+352 silly saveTree |   |   | `-- url-parse-lax@3.0.0
+352 silly saveTree |   |   |   `-- prepend-http@2.0.0
+352 silly saveTree |   |   +-- registry-auth-token@4.2.1
+352 silly saveTree |   |   | `-- rc@1.2.8
+352 silly saveTree |   |   |   +-- deep-extend@0.6.0
+352 silly saveTree |   |   |   +-- ini@1.3.8
+352 silly saveTree |   |   |   +-- minimist@1.2.6
+352 silly saveTree |   |   |   `-- strip-json-comments@2.0.1
+352 silly saveTree |   |   +-- registry-url@5.1.0
+352 silly saveTree |   |   `-- semver@6.3.0
+352 silly saveTree |   +-- pupa@2.1.1
+352 silly saveTree |   | `-- escape-goat@2.1.1
+352 silly saveTree |   +-- semver-diff@3.1.1
+352 silly saveTree |   | `-- semver@6.3.0
+352 silly saveTree |   +-- semver@7.3.5
+352 silly saveTree |   | `-- lru-cache@6.0.0
+352 silly saveTree |   |   `-- yallist@4.0.0
+352 silly saveTree |   `-- xdg-basedir@4.0.0
+352 silly saveTree +-- socket.io@4.4.1
+352 silly saveTree | +-- base64id@2.0.0
+352 silly saveTree | +-- debug@4.3.4
+352 silly saveTree | | `-- ms@2.1.2
+352 silly saveTree | +-- engine.io@6.1.3
+352 silly saveTree | | +-- @types/cookie@0.4.1
+352 silly saveTree | | +-- debug@4.3.4
+352 silly saveTree | | | `-- ms@2.1.2
+352 silly saveTree | | +-- engine.io-parser@5.0.3
+352 silly saveTree | | | `-- @socket.io/base64-arraybuffer@1.0.2
+352 silly saveTree | | `-- ws@8.2.3
+352 silly saveTree | +-- socket.io-adapter@2.3.3
+352 silly saveTree | `-- socket.io-parser@4.0.4
+352 silly saveTree |   +-- @types/component-emitter@1.2.11
+352 silly saveTree |   +-- component-emitter@1.3.0
+352 silly saveTree |   `-- debug@4.3.4
+352 silly saveTree |     `-- ms@2.1.2
+352 silly saveTree +-- typescript@4.6.3
+352 silly saveTree `-- winston@3.6.0
+352 silly saveTree   +-- @dabh/diagnostics@2.0.3
+352 silly saveTree   | +-- colorspace@1.1.4
+352 silly saveTree   | | +-- color@3.2.1
+352 silly saveTree   | | | +-- color-convert@1.9.3
+352 silly saveTree   | | | | `-- color-name@1.1.3
+352 silly saveTree   | | | `-- color-string@1.9.0
+352 silly saveTree   | | |   `-- simple-swizzle@0.2.2
+352 silly saveTree   | | |     `-- is-arrayish@0.3.2
+352 silly saveTree   | | `-- text-hex@1.0.0
+352 silly saveTree   | +-- enabled@2.0.0
+352 silly saveTree   | `-- kuler@2.0.0
+352 silly saveTree   +-- async@3.2.3
+352 silly saveTree   +-- is-stream@2.0.1
+352 silly saveTree   +-- logform@2.4.0
+352 silly saveTree   | +-- @colors/colors@1.5.0
+352 silly saveTree   | +-- fecha@4.2.1
+352 silly saveTree   | +-- ms@2.1.3
+352 silly saveTree   | +-- safe-stable-stringify@2.3.1
+352 silly saveTree   | `-- triple-beam@1.3.0
+352 silly saveTree   +-- one-time@1.0.0
+352 silly saveTree   | `-- fn.name@1.1.0
+352 silly saveTree   +-- readable-stream@3.6.0
+352 silly saveTree   | +-- string_decoder@1.3.0
+352 silly saveTree   | `-- util-deprecate@1.0.2
+352 silly saveTree   +-- safe-stable-stringify@2.3.1
+352 silly saveTree   +-- stack-trace@0.0.10
+352 silly saveTree   +-- triple-beam@1.3.0
+352 silly saveTree   `-- winston-transport@4.5.0
+353 warn dot-test@1.0.0 No repository field.
+354 warn optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.3.2 (node_modules\fsevents):
+355 warn notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+356 verbose notsup SKIPPING OPTIONAL DEPENDENCY: Valid OS:    darwin
+356 verbose notsup SKIPPING OPTIONAL DEPENDENCY: Valid Arch:  any
+356 verbose notsup SKIPPING OPTIONAL DEPENDENCY: Actual OS:   win32
+356 verbose notsup SKIPPING OPTIONAL DEPENDENCY: Actual Arch: x64
+357 verbose stack Error: EPERM: operation not permitted, rename 'C:\typescript\node_modules\socket.io\package.json.2508291000' -> 'C:\typescript\node_modules\socket.io\package.json'
+358 verbose cwd C:\typescript
+359 verbose Windows_NT 10.0.19043
+360 verbose argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "i" "socket.io"
+361 verbose node v14.18.1
+362 verbose npm  v6.14.15
+363 error code EPERM
+364 error syscall rename
+365 error path C:\typescript\node_modules\socket.io\package.json.2508291000
+366 error dest C:\typescript\node_modules\socket.io\package.json
+367 error errno -4048
+368 error Error: EPERM: operation not permitted, rename 'C:\typescript\node_modules\socket.io\package.json.2508291000' -> 'C:\typescript\node_modules\socket.io\package.json'
+368 error  [OperationalError: EPERM: operation not permitted, rename 'C:\typescript\node_modules\socket.io\package.json.2508291000' -> 'C:\typescript\node_modules\socket.io\package.json'] {
+368 error   cause: [Error: EPERM: operation not permitted, rename 'C:\typescript\node_modules\socket.io\package.json.2508291000' -> 'C:\typescript\node_modules\socket.io\package.json'] {
+368 error     errno: -4048,
+368 error     code: 'EPERM',
+368 error     syscall: 'rename',
+368 error     path: 'C:\\typescript\\node_modules\\socket.io\\package.json.2508291000',
+368 error     dest: 'C:\\typescript\\node_modules\\socket.io\\package.json'
+368 error   },
+368 error   errno: -4048,
+368 error   code: 'EPERM',
+368 error   syscall: 'rename',
+368 error   path: 'C:\\typescript\\node_modules\\socket.io\\package.json.2508291000',
+368 error   dest: 'C:\\typescript\\node_modules\\socket.io\\package.json',
+368 error   parent: 'typescript'
+368 error }
+369 error The operation was rejected by your operating system.
+369 error It's possible that the file was already in use (by a text editor or antivirus),
+369 error or that you lack permissions to access it.
+369 error
+369 error If you believe this might be a permissions issue, please double-check the
+369 error permissions of the file and its containing directories, or try running
+369 error the command again as root/Administrator.
+370 verbose exit [ -4048, true ]

@@ -1,0 +1,469 @@
+Sat, 26 Mar 2022 13:51:22 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 15:16:19 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:23:20 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:25:11 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:25:35 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:26:24 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:27:53 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:30:05 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:31:18 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:32:40 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:35:39 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:36:26 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:38:29 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:39:03 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:42:14 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:44:44 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:45:33 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:46:11 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:48:32 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:50:40 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:51:32 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:53:04 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:54:05 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:54:32 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:55:23 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:56:20 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:57:17 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 16:59:01 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 17:00:01 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 17:02:54 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 17:03:56 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 17:07:16 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sat, 26 Mar 2022 17:07:17 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 22:16:20 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 22:17:59 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 22:17:59 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - STATUS: [404] - IP: [::1]
+Sat, 26 Mar 2022 22:19:09 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 22:19:14 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 22:19:14 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 22:25:54 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 22:25:54 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 22:26:01 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 22:26:01 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 22:26:05 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 22:26:05 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 22:26:35 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 22:26:35 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 22:26:51 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 22:26:51 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 22:28:30 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 22:28:30 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 22:28:42 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 22:28:42 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 22:30:07 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 22:30:07 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 22:31:00 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 22:31:00 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 22:31:09 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 22:31:09 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 22:31:40 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 22:31:40 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 22:32:25 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 22:32:25 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:31:16 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sat, 26 Mar 2022 23:31:25 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 23:31:26 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:32:12 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 23:32:12 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:33:02 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 23:33:02 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:34:06 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 23:34:06 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:35:45 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 23:35:45 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:37:09 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 23:37:09 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:38:39 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 23:38:39 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:39:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 23:39:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:40:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 23:40:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:40:53 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 23:40:53 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:41:18 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 23:41:18 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:48:01 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 23:48:01 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:57:11 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sat, 26 Mar 2022 23:57:12 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:57:16 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sat, 26 Mar 2022 23:57:16 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:57:28 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 23:57:28 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:57:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 23:57:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:57:36 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sat, 26 Mar 2022 23:57:36 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:57:54 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 23:57:54 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sat, 26 Mar 2022 23:58:01 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sat, 26 Mar 2022 23:58:01 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:03:26 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 00:03:27 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:04:42 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 00:04:42 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:08:43 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 00:08:43 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:09:05 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 00:09:05 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:14:10 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 00:14:18 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 00:14:18 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:14:24 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 00:14:24 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [500] - IP: [::1]
+Sun, 27 Mar 2022 00:14:31 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 00:14:31 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:14:37 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 00:14:37 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:16:31 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 00:18:47 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 00:19:40 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 00:20:39 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 00:21:14 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 00:21:36 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 00:21:36 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:23:23 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 00:23:23 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:27:36 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 00:27:36 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:27:40 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 00:27:40 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:28:55 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 00:28:55 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:30:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 00:30:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:30:43 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 00:30:43 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:31:44 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 00:31:44 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:32:09 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 00:32:09 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:33:03 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 00:33:03 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:33:09 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 00:33:09 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:33:32 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 00:33:32 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:33:37 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 00:33:37 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 00:47:27 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 00:49:42 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 00:51:04 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 00:54:37 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 00:55:25 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 00:58:14 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 01:08:42 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 01:13:14 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 01:14:36 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 01:14:36 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 01:15:24 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 01:15:24 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 01:16:18 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 01:16:19 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [500] - IP: [::1]
+Sun, 27 Mar 2022 01:16:50 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 01:16:50 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 01:17:37 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 01:17:37 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 01:18:56 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 01:19:17 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 01:19:17 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 01:19:50 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 01:19:50 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 01:20:03 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 01:20:03 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [500] - IP: [::1]
+Sun, 27 Mar 2022 01:22:05 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 01:22:05 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 01:22:49 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 01:22:49 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [500] - IP: [::1]
+Sun, 27 Mar 2022 01:23:25 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 01:23:25 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 01:25:45 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 01:25:45 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 01:26:05 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 01:26:05 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 01:26:30 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 01:26:30 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 01:27:00 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 01:27:00 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 01:33:26 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 01:35:09 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 01:43:05 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 01:47:24 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 01:49:01 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 01:50:32 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 01:51:40 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 01:51:40 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 01:52:20 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 01:52:20 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 01:53:05 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 01:53:05 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 01:56:45 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 01:56:45 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 02:00:46 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 02:02:12 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 02:02:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 02:02:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 02:04:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 02:04:33 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 02:04:46 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 02:04:46 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 02:10:10 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 02:11:17 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 02:11:18 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [500] - IP: [::1]
+Sun, 27 Mar 2022 02:12:49 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 04:53:36 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 04:58:09 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 04:59:03 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 04:59:27 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 04:59:28 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [500] - IP: [::1]
+Sun, 27 Mar 2022 05:02:10 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 05:02:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 05:02:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [500] - IP: [::1]
+Sun, 27 Mar 2022 05:03:04 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 05:03:04 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [500] - IP: [::1]
+Sun, 27 Mar 2022 05:20:36 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 05:20:49 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 05:20:49 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [500] - IP: [::1]
+Sun, 27 Mar 2022 06:20:50 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 06:23:31 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 06:26:25 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 06:27:26 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 06:28:01 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 06:28:18 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 06:28:18 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 06:30:16 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 06:30:16 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 06:31:25 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 06:31:25 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 06:31:46 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 06:31:46 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 06:33:23 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 06:33:23 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 06:33:44 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 06:33:44 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 06:34:20 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 06:34:20 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 06:34:31 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 06:34:31 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 06:34:45 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 06:34:45 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 06:57:14 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 06:57:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 06:57:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 06:58:13 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 06:58:13 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 06:58:26 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/] - IP: [::1]
+Sun, 27 Mar 2022 06:58:26 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 06:59:49 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 06:59:49 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:00:01 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:00:01 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:00:24 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:00:24 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:01:21 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/] - IP: [::1]
+Sun, 27 Mar 2022 07:01:21 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/] - STATUS: [404] - IP: [::1]
+Sun, 27 Mar 2022 07:02:03 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:02:04 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:02:20 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:02:20 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:05:15 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 07:05:56 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:05:56 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:06:46 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:06:46 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:06:51 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:06:51 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:08:11 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:08:11 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:10:08 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:10:08 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:10:17 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:10:17 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:15:05 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:15:05 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:15:31 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:15:31 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:15:59 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:15:59 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:16:10 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:16:10 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:16:49 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:16:49 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:17:05 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 07:17:05 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 07:17:30 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:17:31 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 07:17:53 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:17:53 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 07:18:54 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:18:54 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 07:20:32 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 07:21:00 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 07:21:00 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 07:21:16 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:21:16 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 07:21:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:21:32 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 07:22:24 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 07:22:46 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 07:22:47 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 07:23:36 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:23:36 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 07:25:16 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 07:25:16 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 07:30:32 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 07:30:54 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:30:54 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 07:31:23 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 07:31:23 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 07:32:36 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 07:33:12 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:33:12 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 07:33:24 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 07:33:24 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 07:35:03 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 07:35:16 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:35:16 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [500] - IP: [::1]
+Sun, 27 Mar 2022 07:41:14 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 07:48:59 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 07:49:17 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 07:49:17 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 07:49:42 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:49:42 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 07:51:53 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 07:52:25 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 07:52:26 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 07:54:42 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 07:55:04 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:55:04 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 07:55:24 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:55:24 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 07:55:43 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 07:55:43 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 07:57:13 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 07:57:14 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 07:57:15 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 07:57:29 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 07:57:29 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:01:52 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 08:02:20 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:02:20 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 08:02:44 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:02:44 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 08:04:57 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 08:05:17 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:05:17 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 08:05:36 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:05:36 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 08:08:08 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 08:08:18 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:08:19 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 08:10:02 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 08:10:20 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:10:20 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 08:11:03 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 08:11:19 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:11:19 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 08:12:05 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:12:05 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 08:12:08 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:12:08 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 08:12:28 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:12:28 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 08:12:53 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:12:53 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 08:13:47 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:13:47 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 08:14:00 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:14:00 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 08:19:30 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:19:30 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 08:19:46 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:19:46 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 08:28:27 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 08:28:49 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:28:49 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [500] - IP: [::1]
+Sun, 27 Mar 2022 08:30:56 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 08:31:10 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:31:10 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 08:39:38 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 08:39:52 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:39:52 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 08:39:58 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 08:39:58 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:40:54 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:40:54 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 08:41:13 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:41:13 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 08:41:22 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 08:41:22 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:42:10 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:42:10 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 08:42:16 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:42:16 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 08:42:56 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:42:56 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 08:43:06 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 08:43:06 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:43:36 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:43:36 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 08:43:55 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:43:55 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 08:44:50 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 08:45:40 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 08:45:51 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 08:45:51 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:46:35 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:46:35 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 08:46:51 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:46:51 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 08:47:33 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:47:33 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 08:48:22 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 08:48:22 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:48:50 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:48:50 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 08:48:58 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 08:48:58 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:49:50 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:49:50 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 08:49:59 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 08:49:59 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:51:06 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:51:06 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 08:51:20 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:51:20 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 08:51:27 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 08:51:27 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:51:32 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 08:51:32 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:51:35 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 08:51:35 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:51:39 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 08:51:40 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:51:42 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 08:51:42 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:51:44 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 08:51:44 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:51:45 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 08:51:45 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:51:45 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 08:51:45 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:51:47 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 08:51:47 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 08:52:09 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 08:52:09 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 10:44:15 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 10:44:15 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [304] - IP: [::1]
+Sun, 27 Mar 2022 10:54:57 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/api/post/get] - IP: [::1]
+Sun, 27 Mar 2022 10:54:57 GMT | server | INFO | server.log | METHOD: [GET] - URL: [/get] - STATUS: [200] - IP: [::1]
+Sun, 27 Mar 2022 10:55:10 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 10:55:10 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 10:55:17 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 10:55:17 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 10:55:22 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/api/post/create] - IP: [::1]
+Sun, 27 Mar 2022 10:55:22 GMT | server | INFO | server.log | METHOD: [POST] - URL: [/create] - STATUS: [201] - IP: [::1]
+Sun, 27 Mar 2022 11:04:37 GMT | server | INFO | server.log | Server is running on localhost:1337
+Sun, 27 Mar 2022 11:07:22 GMT | server | INFO | server.log | Server is running on localhost:1337

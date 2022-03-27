@@ -1,0 +1,23 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "lib":["es2015"],
+    "target": "ES5",                          
+    "module": "commonjs",                  
+    "allowJs": true,
+    "outDir": "./build",                          
+    "rootDir": "source",
+    "strict": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "esModuleInterop":true,
+  },
+  "include":[
+    "source/**/*.ts"
+  ],
+  "exclude":[
+    "node_modules"
+  ],
+}
