@@ -3,3 +3,5 @@
 /logs
 /tmpnodejsnpm-cache
 .env
+.env.test
+.env.production
