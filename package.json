@@ -4,9 +4,9 @@
   "description": "A Dot Typescript Nodejs Test",
   "main": "build/server.ts",
   "scripts": {
-    "start": "set NODE_ENV=staging && node -r ./tsconfig-paths.js build/server.js",
+    "start": "set NODE_ENV=prod && node build/server.js",
     "tsc": "tsc",
-    "postinstall": "npm run tsc && npm run copy-files && npm run copy-greeting",
+    "postinstall": "npm run tsc",
     "watch-node": "nodemon build/server.js",
     "watch-ts": "tsc -w",
     "dev": "set NODE_ENV=dev TS_NODE_FILES=true TS_NODE_TRANSPILE_ONLY=true && nodemon source/server.ts",
